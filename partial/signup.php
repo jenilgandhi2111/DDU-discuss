@@ -1,0 +1,22 @@
+<?php
+if($_SERVER['REQUEST_METHOD']=="POST")
+{
+$username=$_POST['email'];
+$password=$_POST['password'];
+$cpassword=$_POST['cpassword'];
+if($username="")
+{
+echo"yesssssss";
+//header("location:index.php");
+}
+else
+{
+echo "NOOOOOOO";
+//header("locaion:index.php");
+}
+}
+else
+{
+    echo"kakassknaslkdnaskldn";
+}
+?>
