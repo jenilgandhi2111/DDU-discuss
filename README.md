@@ -2,10 +2,11 @@ This website is a ineractive discussion forum with functnalities like code-highl
 some of the screenshots are as below:-
 
 1.) Login page<br>
-2.) Home page
-3.) Discussion Page
-4.) Profile Page
-5.) Search-user page
+
+2.) Home page<br>
+3.) Discussion Page<br>
+4.) Profile Page<br>
+5.) Search-user page<br>
 
 
 
