@@ -1,7 +1,7 @@
 This website is a ineractive discussion forum with functnalities like code-highlighting,well-defined user profile page,Enhanced search and many more
 some of the screenshots are as below:-
 
-1.) Login page
+1.) Login page<br>
 2.) Home page
 3.) Discussion Page
 4.) Profile Page
