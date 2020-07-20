@@ -2,7 +2,7 @@ This website is a ineractive discussion forum with functnalities like code-highl
 some of the screenshots are as below:-
 
 1.) Login page<br>
-
+<img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/home_page.PNG"></img>
 2.) Home page<br>
 3.) Discussion Page<br>
 4.) Profile Page<br>
