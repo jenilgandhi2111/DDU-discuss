@@ -4,19 +4,28 @@ some of the screenshots are as below:-
 1.) Login page<br>
 <img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/home_page.PNG"></img>
 <br>
+<br>
+<hr>
 2.) Home page<br>
 <img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/home1.PNG"></img>
 <br>
+<br>
+<hr>
 3.) Discussion Page<br>
 <img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/ask.PNG"></img>
 <br>
+<br>
+<hr>
 4.) Profile Page<br>
 <img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/user.PNG"></img>
 <br>
+<br>
+<hr>
 5.) Search-user page<br>
 <img src="https://raw.githubusercontent.com/jenilgandhi2111/DDU-discuss/master/search.PNG"></img>
 <br>
-
+<br>
+<hr>
 
 
 I hope you loved the website 
