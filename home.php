@@ -11,6 +11,7 @@ if($_SESSION==0)
 if(!isset($_SESSION['cat']))
 {
     header('location:index.php');
+    // If session is not set then direct to index.php...
 }
 
 ?>
