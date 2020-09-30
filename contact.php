@@ -47,7 +47,8 @@ ob_flush();
 
 <body>
     <?php
-      include "partial/_header.php";
+      include "partial/_header.php"; 
+    // This is the template for header...
       
       ?>
 
