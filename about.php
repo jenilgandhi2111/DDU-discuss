@@ -1,8 +1,8 @@
 <?php
 session_start();
-echo $_SESSION['username'];
-echo $_SESSION['cat'];
-echo $_SESSION['uid'];
+// echo $_SESSION['username'];
+// echo $_SESSION['cat'];
+// echo $_SESSION['uid'];
 if($_SESSION==0)
 {
     header('location:index.php');
