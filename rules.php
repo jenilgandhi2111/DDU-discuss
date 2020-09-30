@@ -21,7 +21,9 @@ if(!isset($_SESSION['cat']))
 
 <?php
 require "partial/_dbconnect.php";
+// This will connect you to database.. 
 ?>
+
 <!doctype html>
 <html lang="en">
 
