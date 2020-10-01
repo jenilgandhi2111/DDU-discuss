@@ -6,17 +6,20 @@ $password=$_POST['password'];
 $cpassword=$_POST['cpassword'];
 if($username="")
 {
-echo"yesssssss";
-//header("location:index.php");
+    echo"yesssssss";
 }
 else
 {
-echo "NOOOOOOO";
-//header("locaion:index.php");
+    echo "NOOOOOOO";
 }
 }
 else
 {
     echo"kakassknaslkdnaskldn";
 }
+/*
+Here this is the auxilary signup modal 
+this one is proposed for the future if 
+we would use the modal this is the code
+*/
 ?>
