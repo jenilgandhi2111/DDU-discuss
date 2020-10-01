@@ -1,4 +1,9 @@
 <?php
+/*
+This is the file for updating the current institute of the student 
+also it will take the conformation for the same and update it
+updated by jenil gandhi on 01 10 2020
+*/
 include "partial/_dbconnect.php";
 session_start();
 $cid=$_SESSION['uid'];
