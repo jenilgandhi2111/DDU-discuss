@@ -14,35 +14,14 @@ if(!isset($_SESSION['cat']))
 }
 
 ?>
-
-
-
-
-
-
-
-
-
-
 <?php
 include "partial/_dbconnect.php";
 $usnm=$_POST['search_users'];
-//echo $usnm;
-
-
 $sname=$usnm;
 $search_name="%".$usnm."%";
 $sql='SELECT * FROM `users` WHERE name LIKE "'.$search_name.'" order by name ';
 $result=mysqli_query($conn,$sql);
 $num=mysqli_num_rows($result);
-
-// echo $sql;
-
-
-//echo $num;
-
-
-
 ?>
 <!doctype html>
 <html lang="en">
@@ -72,6 +51,7 @@ $num=mysqli_num_rows($result);
   </div>';
     while($row=mysqli_fetch_assoc($result))
     {
+      //this while loop fetches the results from the database and shows it in the particular formated way  
       $name=$row['name'];
       $role=$row['role'];
       $id=$row['user_id'];
