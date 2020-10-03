@@ -37,3 +37,10 @@ Instructions for viewing the website in your pc
 3. Now go to the admin of sql in xampp and import the ddudiscuss.sql over there
 4. Now you are good to go open the browser and type 'localhost/forum/index.php'
 </pre>
+
+<h2>Directions how to deploy the website</h2>
+<ul>
+  <li>Find a hosting platform</li>
+  <li>Insert the files on the server and then upload the ddudiscuss.sql file there</li>
+  <li>Good to go</li>
+  </ul>
