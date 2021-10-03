@@ -1,4 +1,5 @@
 <?php
+// this is the code for logout in DDU Discuss website
 session_start();
 session_unset();
 session_destroy();
