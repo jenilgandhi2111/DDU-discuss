@@ -1,5 +1,5 @@
 <?php
-// this is the code for logout in DDU Discuss website
+// this is the file to logout from the website.
 session_start();
 session_unset();
 session_destroy();
