@@ -21,6 +21,7 @@ if($num>0)
   }
   $_SESSION['uid']=$uid;
 }
+// validation for password
 else if($password!="")
 {
   //echo "oops";
