@@ -3,6 +3,8 @@ session_start();
 //echo $_SESSION['username'];
 //echo $_SESSION['cat'];
 //echo $_SESSION['uid'];
+
+// check whether session is started for user or not.
 if($_SESSION==0)
 {
     header('location:index.php');
