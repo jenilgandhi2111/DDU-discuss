@@ -8,6 +8,9 @@ $cpassword=$_POST['cpass'];
 $institute=$_POST['institute'];
 $error_showing="null";
 $type="Rookie";
+
+
+// decide role of the user
 if($_POST['stuprof']=="student"||$_POST['stuprof']=="Student")
 {
     $role="student";
