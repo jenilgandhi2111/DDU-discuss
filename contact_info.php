@@ -1,6 +1,7 @@
 <?php
 include "partial/_dbconnect.php";
 session_start();
+// starting the session
 $cid=$_SESSION['uid'];
 ?>
 
