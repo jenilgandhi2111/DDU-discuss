@@ -10,7 +10,7 @@ if(!isset($_SESSION['cat']))
 {
     header('location:index.php');
 }
-
+// session_end();
 ?>
 
 
