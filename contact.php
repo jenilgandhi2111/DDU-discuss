@@ -1,8 +1,8 @@
 <?php
 session_start();
 //echo $_SESSION['username'];
-//echo $_SESSION['cat'];
-//echo $_SESSION['uid'];
+//echo $_SESSION['cat']
+
 
 // check whether session is started for user or not.
 if($_SESSION==0)
