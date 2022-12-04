@@ -3,5 +3,5 @@ function addNums(a, b) {
 }
 
 if (addNums(1, 3) == 4) {
-  return 1;
+  throw "Success in failing tests";
 }
