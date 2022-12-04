@@ -3,5 +3,5 @@ function addNums(a, b) {
 }
 
 if (addNums(1, 3) == 4) {
-  exit(1);
+  return 1;
 }
